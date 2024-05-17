@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Aula09_zym11pjh_wpftmp
+build_property.ProjectDir = C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\

@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula06\\aula06\\modelavaliacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|solutionrelative:aula06\\modelavaliacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula06\\aula06\\windowlistarnotas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|solutionrelative:aula06\\windowlistarnotas.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula06\\aula06\\windowlistaravaliacoes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|solutionrelative:aula06\\windowlistaravaliacoes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula06\\aula06\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|solutionrelative:aula06\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula06\\aula06\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|solutionrelative:aula06\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula06\\aula06\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|solutionrelative:aula06\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula06\\aula06\\windowlistaravaliacoes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|solutionrelative:aula06\\windowlistaravaliacoes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula06\\aula06\\windowlistarnotas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57B96851-84D6-49A7-97B3-487464AF5403}|Aula06\\Aula06.csproj|solutionrelative:aula06\\windowlistarnotas.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowListarNotas.xaml",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\WindowListarNotas.xaml",
+              "RelativeDocumentMoniker": "Aula06\\WindowListarNotas.xaml",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\WindowListarNotas.xaml",
+              "RelativeToolTip": "Aula06\\WindowListarNotas.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T17:04:27.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WindowListarAvaliacoes.xaml",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\WindowListarAvaliacoes.xaml",
+              "RelativeDocumentMoniker": "Aula06\\WindowListarAvaliacoes.xaml",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\WindowListarAvaliacoes.xaml",
+              "RelativeToolTip": "Aula06\\WindowListarAvaliacoes.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T17:04:27.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Aula06\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\MainWindow.xaml",
+              "RelativeToolTip": "Aula06\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T17:04:27.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WindowListarAvaliacoes.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\WindowListarAvaliacoes.xaml.cs",
+              "RelativeDocumentMoniker": "Aula06\\WindowListarAvaliacoes.xaml.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\WindowListarAvaliacoes.xaml.cs",
+              "RelativeToolTip": "Aula06\\WindowListarAvaliacoes.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:04:27.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Aula06\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Aula06\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:04:27.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WindowListarNotas.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\WindowListarNotas.xaml.cs",
+              "RelativeDocumentMoniker": "Aula06\\WindowListarNotas.xaml.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\WindowListarNotas.xaml.cs",
+              "RelativeToolTip": "Aula06\\WindowListarNotas.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:04:27.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModelAvaliacoes.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\ModelAvaliacoes.cs",
+              "RelativeDocumentMoniker": "Aula06\\ModelAvaliacoes.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\ModelAvaliacoes.cs",
+              "RelativeToolTip": "Aula06\\ModelAvaliacoes.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAewBsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:04:27.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Aula06\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula06\\Aula06\\App.xaml.cs",
+              "RelativeToolTip": "Aula06\\App.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:04:27.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

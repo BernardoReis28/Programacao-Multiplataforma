@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula10\\aula10\\aula10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|solutionrelative:aula10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula10\\aula10\\aula10\\modelbateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|solutionrelative:aula10\\modelbateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula10\\aula10\\aula10\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|solutionrelative:aula10\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula10\\aula10\\aula10\\operacaoinvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|solutionrelative:aula10\\operacaoinvalidaexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula10\\aula10\\aula10\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|solutionrelative:aula10\\delegates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula10\\aula10\\aula10\\ibateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|solutionrelative:aula10\\ibateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|c:\\users\\bernardo reis\\onedrive\\ambiente de trabalho\\utad\\2\u00BA ano\\2\u00BA semestre\\programa\u00E7\u00E3o multiplataforma\\exercicios\\exercicios\\aula10\\aula10\\aula10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DE3C1-F856-4A1B-B856-6402F09DF9C9}|Aula10\\Aula10.csproj|solutionrelative:aula10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperacaoInvalidaException.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\OperacaoInvalidaException.cs",
+              "RelativeDocumentMoniker": "Aula10\\OperacaoInvalidaException.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\OperacaoInvalidaException.cs",
+              "RelativeToolTip": "Aula10\\OperacaoInvalidaException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:00:39.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delegates.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\Delegates.cs",
+              "RelativeDocumentMoniker": "Aula10\\Delegates.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\Delegates.cs",
+              "RelativeToolTip": "Aula10\\Delegates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:00:39.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBateria.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\IBateria.cs",
+              "RelativeDocumentMoniker": "Aula10\\IBateria.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\IBateria.cs",
+              "RelativeToolTip": "Aula10\\IBateria.cs",
+              "ViewState": "AQIAAAMAAADAZmZmZqYowBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:00:39.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Aula10\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\App.xaml.cs",
+              "RelativeToolTip": "Aula10\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:00:39.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModelBateria.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\ModelBateria.cs",
+              "RelativeDocumentMoniker": "Aula10\\ModelBateria.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\ModelBateria.cs",
+              "RelativeToolTip": "Aula10\\ModelBateria.cs",
+              "ViewState": "AQIAABUAAACAMzMzMzMFwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:00:39.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Aula10\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\MainWindow.xaml",
+              "RelativeToolTip": "Aula10\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-17T17:00:39.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Aula10\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Bernardo Reis\\OneDrive\\Ambiente de Trabalho\\UTAD\\2\u00BA Ano\\2\u00BA Semestre\\Programa\u00E7\u00E3o multiplataforma\\Exercicios\\Exercicios\\Aula10\\Aula10\\Aula10\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Aula10\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T17:00:39.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

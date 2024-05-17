@@ -1,0 +1,41 @@
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\bin\Debug\net6.0-windows\aula07.exe
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\bin\Debug\net6.0-windows\aula07.deps.json
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\bin\Debug\net6.0-windows\aula07.runtimeconfig.json
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\bin\Debug\net6.0-windows\aula07.dll
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\bin\Debug\net6.0-windows\aula07.pdb
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\aula07.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\aula07_MarkupCompile.cache
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\aula07_MarkupCompile.lref
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\aula07.g.resources
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\aula07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\aula07.AssemblyInfoInputs.cache
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\aula07.AssemblyInfo.cs
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\aula07.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\aula07.dll
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\refint\aula07.dll
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\aula07.pdb
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\aula07.genruntimeconfig.cache
+C:\Users\claud\OneDrive\Ambiente de Trabalho\lei\programaçao\aula07\aula07\obj\Debug\net6.0-windows\ref\aula07.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\aula07_MarkupCompile.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\aula07_MarkupCompile.lref
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\aula07.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\refint\aula07.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\aula07.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\bin\Debug\net6.0-windows\aula07.exe
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\bin\Debug\net6.0-windows\aula07.deps.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\bin\Debug\net6.0-windows\aula07.runtimeconfig.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\bin\Debug\net6.0-windows\aula07.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\bin\Debug\net6.0-windows\aula07.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\aula07.g.resources
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\aula07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\aula07.AssemblyInfoInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\aula07.AssemblyInfo.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\aula07.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\aula07.genruntimeconfig.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\aula07\aula07\aula07\obj\Debug\net6.0-windows\ref\aula07.dll

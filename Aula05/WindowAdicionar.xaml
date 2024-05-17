@@ -1,0 +1,25 @@
+﻿<Window x:Class="Aula05.WindowAdicionar"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aula05"
+        mc:Ignorable="d"
+        Title="Adicionar Figura" Height="255" Width="434">
+    <Grid>
+        <GroupBox Header="Figura" Margin="0,0,314,119">
+            <StackPanel>
+                <RadioButton x:Name="rbQuadrado" Content="Quadrado" IsChecked="True"/>
+                <RadioButton x:Name="rbRetangulo" Content="Retângulo"/>
+                <RadioButton x:Name="rbCirculo" Content="Circulo"/>
+            </StackPanel>
+        </GroupBox>
+        <TextBlock HorizontalAlignment="Left" Margin="191,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="pt-pt" Text="Largura:"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="191,73,0,0" TextWrapping="Wrap" VerticalAlignment="Top"><Run Language="pt-pt" Text="Altura:"/></TextBlock>
+        <TextBox x:Name="tbLargura" HorizontalAlignment="Left" Margin="252,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" HorizontalContentAlignment="Center" Text="?"/>
+        <TextBox x:Name="tbAltura" HorizontalAlignment="Left" Margin="252,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" HorizontalContentAlignment="Center" Text="?"/>
+        <Button x:Name="btnInserir" Content="Inserir" HorizontalAlignment="Left" Margin="137,183,0,0" VerticalAlignment="Top" Height="25" Width="51" Click="btnInserir_Click"/>
+        <Button x:Name="btnCancelar" Content="Cancelar" HorizontalAlignment="Left" Margin="261,183,0,0" VerticalAlignment="Top" Height="25" Width="51"/>
+
+    </Grid>
+</Window>

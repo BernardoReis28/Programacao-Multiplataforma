@@ -1,0 +1,24 @@
+﻿<Window x:Class="Aula11e12.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aula11e12"
+        mc:Ignorable="d"
+        Title="Gestão de Inscrições de Alunos" Height="215" Width="350">
+    <Grid>
+        <Menu Margin="0,0,0,150">
+            <MenuItem Header="Ficheiro">
+                <MenuItem Header="Abrir">
+                    <MenuItem x:Name="MenuItem_AbrirTexto" Header="Texto" Click="MenuItem_AbrirTexto_Click"/>
+                    <MenuItem x:Name="MenuItem_AbrirXml" Header="Xml" Click="MenuItem_AbrirXml_Click"/>
+                </MenuItem>
+                <MenuItem Header="Guardar">
+                    <MenuItem x:Name="MenuItem_GuardarTexto" Header="Texto" Click="MenuItem_GuardarTexto_Click"/>
+                    <MenuItem x:Name="MenuItem_GuardarXml" Header="Xml" Click="MenuItem_GuardarXml_Click"/>
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <TreeView x:Name="tvAlunos" Margin="0,54,0,0" SelectedItemChanged="tvAlunos_SelectedItemChanged"/>
+    </Grid>
+</Window>

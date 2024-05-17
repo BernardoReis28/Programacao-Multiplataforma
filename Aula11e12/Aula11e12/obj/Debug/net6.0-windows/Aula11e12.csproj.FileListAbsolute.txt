@@ -1,0 +1,41 @@
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\bin\Debug\net6.0-windows\Aula11e12.exe
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\bin\Debug\net6.0-windows\Aula11e12.deps.json
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\bin\Debug\net6.0-windows\Aula11e12.runtimeconfig.json
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\bin\Debug\net6.0-windows\Aula11e12.dll
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\bin\Debug\net6.0-windows\Aula11e12.pdb
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.csproj.AssemblyReference.cache
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12_MarkupCompile.cache
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12_MarkupCompile.lref
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.g.resources
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.AssemblyInfoInputs.cache
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.AssemblyInfo.cs
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.csproj.CoreCompileInputs.cache
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.dll
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\refint\Aula11e12.dll
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.pdb
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.genruntimeconfig.cache
+C:\Users\mcssc\Desktop\ivan\Aula11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\ref\Aula11e12.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\bin\Debug\net6.0-windows\Aula11e12.exe
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\bin\Debug\net6.0-windows\Aula11e12.deps.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\bin\Debug\net6.0-windows\Aula11e12.runtimeconfig.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\bin\Debug\net6.0-windows\Aula11e12.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\bin\Debug\net6.0-windows\Aula11e12.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12_MarkupCompile.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12_MarkupCompile.lref
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.g.resources
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.AssemblyInfoInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.AssemblyInfo.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\refint\Aula11e12.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\Aula11e12.genruntimeconfig.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\11e12\Aula11e12\Aula11e12\obj\Debug\net6.0-windows\ref\Aula11e12.dll

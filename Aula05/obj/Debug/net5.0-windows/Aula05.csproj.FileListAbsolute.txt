@@ -1,0 +1,48 @@
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\bin\Debug\net5.0-windows\Aula05.exe
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\bin\Debug\net5.0-windows\Aula05.deps.json
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\bin\Debug\net5.0-windows\Aula05.runtimeconfig.json
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\bin\Debug\net5.0-windows\Aula05.runtimeconfig.dev.json
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\bin\Debug\net5.0-windows\Aula05.dll
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\bin\Debug\net5.0-windows\ref\Aula05.dll
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\bin\Debug\net5.0-windows\Aula05.pdb
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\Aula05.csproj.AssemblyReference.cache
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\WindowAdicionar.g.cs
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\Aula05_MarkupCompile.cache
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\Aula05_MarkupCompile.lref
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\WindowAdicionar.baml
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\Aula05.g.resources
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\Aula05.AssemblyInfoInputs.cache
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\Aula05.AssemblyInfo.cs
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\Aula05.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\Aula05.dll
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\ref\Aula05.dll
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\Aula05.pdb
+C:\Users\Daniel Carlão\OneDrive\Ambiente de Trabalho\Programação Multiplataforma\Aula05\obj\Debug\net5.0-windows\Aula05.genruntimeconfig.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\bin\Debug\net5.0-windows\Aula05.exe
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\bin\Debug\net5.0-windows\Aula05.deps.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\bin\Debug\net5.0-windows\Aula05.runtimeconfig.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\bin\Debug\net5.0-windows\Aula05.runtimeconfig.dev.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\bin\Debug\net5.0-windows\Aula05.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\bin\Debug\net5.0-windows\Aula05.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\Aula05.csproj.AssemblyReference.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\WindowAdicionar.g.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\Aula05_MarkupCompile.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\Aula05_MarkupCompile.lref
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\WindowAdicionar.baml
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\Aula05.g.resources
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\Aula05.AssemblyInfoInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\Aula05.AssemblyInfo.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\Aula05.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\Aula05.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\refint\Aula05.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\Aula05.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\Aula05.genruntimeconfig.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula05\obj\Debug\net5.0-windows\ref\Aula05.dll

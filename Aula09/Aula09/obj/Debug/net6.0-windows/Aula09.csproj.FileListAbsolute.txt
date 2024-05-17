@@ -1,0 +1,41 @@
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.csproj.AssemblyReference.cache
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09_MarkupCompile.cache
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09_MarkupCompile.lref
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\bin\Debug\net6.0-windows\Aula09.exe
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\bin\Debug\net6.0-windows\Aula09.deps.json
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\bin\Debug\net6.0-windows\Aula09.runtimeconfig.json
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\bin\Debug\net6.0-windows\Aula09.dll
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\bin\Debug\net6.0-windows\Aula09.pdb
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.g.resources
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.AssemblyInfoInputs.cache
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.AssemblyInfo.cs
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.dll
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\refint\Aula09.dll
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.pdb
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.genruntimeconfig.cache
+C:\Users\Daniel Carlão\OneDrive - Universidade de Tras-os-Montes e Alto Douro\2ºAno\Programação Multiplataforma\Aula09\Aula09\obj\Debug\net6.0-windows\ref\Aula09.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\bin\Debug\net6.0-windows\Aula09.exe
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\bin\Debug\net6.0-windows\Aula09.deps.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\bin\Debug\net6.0-windows\Aula09.runtimeconfig.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\bin\Debug\net6.0-windows\Aula09.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\bin\Debug\net6.0-windows\Aula09.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09_MarkupCompile.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09_MarkupCompile.lref
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.g.resources
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.AssemblyInfoInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.AssemblyInfo.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\refint\Aula09.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\Aula09.genruntimeconfig.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\Exercicios\Exercicios\Aula09\Aula09\obj\Debug\net6.0-windows\ref\Aula09.dll

@@ -1,0 +1,41 @@
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF_MarkupCompile.cache
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF_MarkupCompile.lref
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\bin\Debug\net6.0-windows\Aula13WPF.exe
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\bin\Debug\net6.0-windows\Aula13WPF.deps.json
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\bin\Debug\net6.0-windows\Aula13WPF.runtimeconfig.json
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\bin\Debug\net6.0-windows\Aula13WPF.dll
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\bin\Debug\net6.0-windows\Aula13WPF.pdb
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.g.resources
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.AssemblyInfoInputs.cache
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.AssemblyInfo.cs
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.dll
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\refint\Aula13WPF.dll
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.pdb
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.genruntimeconfig.cache
+C:\Users\danie\Desktop\UTAD\2ANO\2 semestre\Prog. Multi\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\ref\Aula13WPF.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\bin\Debug\net6.0-windows\Aula13WPF.exe
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\bin\Debug\net6.0-windows\Aula13WPF.deps.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\bin\Debug\net6.0-windows\Aula13WPF.runtimeconfig.json
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\bin\Debug\net6.0-windows\Aula13WPF.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\bin\Debug\net6.0-windows\Aula13WPF.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF_MarkupCompile.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF_MarkupCompile.lref
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.g.resources
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.AssemblyInfoInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.AssemblyInfo.cs
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.csproj.CoreCompileInputs.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\refint\Aula13WPF.dll
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.pdb
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\Aula13WPF.genruntimeconfig.cache
+C:\Users\Bernardo Reis\OneDrive\Ambiente de Trabalho\UTAD\2º Ano\2º Semestre\Programação multiplataforma\2º teste\aula\Aulas\Aula13WPF\Aula13WPF\obj\Debug\net6.0-windows\ref\Aula13WPF.dll
